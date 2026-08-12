@@ -25,7 +25,6 @@ I would recommend Microsoft Azure because the university already uses Windows Se
 * Azure Virtual Machines
 * Microsoft Entra ID
 * Azure SQL Database
-* Azure Virtual Network
 
 ---
 
@@ -37,7 +36,6 @@ I would choose Google Cloud for the AI research company because its main require
 
 **Recommended Services:**
 
-* Vertex AI
 * Compute Engine
 * Cloud Storage
 * Google Kubernetes Engine (GKE)
@@ -55,8 +53,6 @@ I would recommend AWS for the global e-commerce company because it needs high av
 * Amazon EC2
 * Elastic Load Balancing
 * Amazon RDS
-* Amazon S3
-* Amazon EC2 Auto Scaling
 
 ---
 
