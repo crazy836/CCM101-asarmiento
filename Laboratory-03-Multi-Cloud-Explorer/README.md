@@ -55,6 +55,7 @@ CPU(s):                      1
 Vendor ID:                   GenuineIntel
   BIOS Vendor ID:            Red Hat
   Model name:                Intel Xeon E312xx (Sandy Bridge, IBRS update)
+  |------------------------------------------------------------------------------------------------|
     BIOS Model name:         RHEL-9.6.0 PC (Q35 + ICH9, 2009)  CPU @ 2.0GHz
     BIOS CPU family:         1
     CPU family:              6
