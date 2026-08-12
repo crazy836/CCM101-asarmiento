@@ -74,11 +74,6 @@ After researching AWS, I think its biggest advantage is flexibility. There are m
 
 As a college student studying Information Technology, I see AWS as an important technology to learn because cloud computing is becoming an important part of modern IT. Learning basic services such as EC2, S3, RDS, and VPC gives me a better idea of how real companies can build and manage applications without depending completely on physical servers.
 
-## Screenshot Evidence
-
-![AWS Homepage](screenshots/aws-homepage.png)
-
-**Screenshot:** Official AWS homepage or AWS Management Console.
 
 ## References
 
