@@ -69,12 +69,14 @@ I would recommend AWS for the global e-commerce company because it needs high av
 
 After analyzing the four scenarios, I learned that there is no single cloud provider that is automatically the best for every client. My choice depends on what each organization already has and what it needs to accomplish. For me, the most important part of being a Cloud Solutions Consultant is understanding the client's problem first and then selecting the cloud services that can solve it.
 
-Multi-Cloud Decision Matrix
-Business Requirement	Recommended Platform	Justification
-Startup Company	AWS	I would choose AWS because a startup can begin with basic cloud resources and scale them as the number of users grows.
-Enterprise Organization	AWS	I think AWS is a good choice for large organizations because it provides many services for computing, storage, databases, networking, and security.
-Microsoft Environment	Microsoft Azure	I would recommend Azure because it works well with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID.
-AI / Machine Learning	Google Cloud	I would choose Google Cloud because it has strong services for artificial intelligence, machine learning, and data processing.
-Kubernetes Deployment	Google Cloud	I would recommend Google Cloud because Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying containerized applications.
-Global Web Application	AWS	I would choose AWS because its global infrastructure and scalable services can support web applications with users from different locations.
+# Multi-Cloud Decision Matrix
+
+| Business Requirement        | Recommended Platform | Justification                                                                                                                                             |
+| --------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | **AWS**              | I would choose AWS because a startup can begin with basic cloud resources and scale them as the number of users grows.                                    |
+| **Enterprise Organization** | **AWS**              | I think AWS is a good choice for large organizations because it provides many services for computing, storage, databases, networking, and security.       |
+| **Microsoft Environment**   | **Microsoft Azure**  | I would recommend Azure because it works well with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID.                  |
+| **AI / Machine Learning**   | **Google Cloud**     | I would choose Google Cloud because it has strong services for artificial intelligence, machine learning, and data processing.                            |
+| **Kubernetes Deployment**   | **Google Cloud**     | I would recommend Google Cloud because Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying containerized applications. |
+| **Global Web Application**  | **AWS**              | I would choose AWS because its global infrastructure and scalable services can support web applications with users from different locations.              |
 
