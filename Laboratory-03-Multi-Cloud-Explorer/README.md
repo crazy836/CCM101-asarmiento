@@ -16,7 +16,7 @@ The command shows information about the Linux operating system installed on the 
 
 **My Result:**
 
-root@ubuntu:~$ cat /etc/os-release 
+### root@ubuntu:~$ cat /etc/os-release 
 PRETTY_NAME="Ubuntu 24.04.4 LTS"
 NAME="Ubuntu"
 VERSION_ID="24.04"
