@@ -18,8 +18,8 @@ The command shows information about the Linux operating system installed on the 
 
 ### root@ubuntu:~$ cat /etc/os-release 
 ### PRETTY_NAME="Ubuntu 24.04.4 LTS"
-NAME="Ubuntu"
-VERSION_ID="24.04"
+###  NAME="Ubuntu"
+### VERSION_ID="24.04"
 VERSION="24.04.4 LTS (Noble Numbat)"
 VERSION_CODENAME=noble
 ID=ubuntu
