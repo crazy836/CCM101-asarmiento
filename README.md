@@ -85,7 +85,10 @@ cloud-computing-course/
 └── checkpoint-5.png
 
 
-└── Laboratory-03-Multi-Cloud-Explorer │ 
+
+# Laboratory-03-Multi-Cloud-Explorer
+
+
 ├── README.md 
 ├── aws-research.md 
 ├── azure-research.md 
