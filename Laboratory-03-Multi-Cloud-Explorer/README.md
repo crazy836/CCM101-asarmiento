@@ -44,7 +44,7 @@ lscpu
 This command displays information about the processor, including the CPU architecture, number of CPUs, cores, and other details.
 
 **My Result:**
-|-------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------------------------------|
 root@ubuntu:~$ lscpu
 Architecture:                x86_64
   CPU op-mode(s):            32-bit, 64-bit
