@@ -86,9 +86,10 @@ cloud-computing-course/
 
 
 
-# Repository Structure
-
-
+Repository Structure
+│
+├── README.md
+│
 └── Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint
     │
     ├── README.md
