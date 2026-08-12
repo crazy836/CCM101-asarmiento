@@ -24,10 +24,6 @@ As a student, I think the Azure Portal is helpful because it gives a visual way 
 
 The portal also provides dashboards that can be customized to organize and monitor cloud resources.
 
-**Screenshot:**
-
-![Microsoft Azure Portal](screenshots/azure-homepage.png)
-
 ## 4. Four Core Services
 
 ### 1. Azure Virtual Machines
