@@ -86,19 +86,21 @@ cloud-computing-course/
 
 
 
-# Laboratory-03-Multi-Cloud-Explorer
+## Repository Structure
 
-
-├── README.md 
-├── aws-research.md 
-├── azure-research.md 
-├── gcp-research.md 
-├── cloud-platform-comparison.md 
-├── client-recommendations.md 
-├── reflection.md └── screenshots 
-                       ├── aws-homepage.png 
-                       ├── azure-homepage.png 
-                       ├── gcp-homepage.png 
-                       ├── killercoda-terminal.png 
-                       └── github-repository.png
+```text
+Laboratory-03-Multi-Cloud-Explorer/
+├── README.md
+├── aws-research.md
+├── azure-research.md
+├── gcp-research.md
+├── cloud-platform-comparison.md
+├── client-recommendations.md
+├── reflection.md
+└── screenshots/
+    ├── aws-homepage.png
+    ├── azure-homepage.png
+    ├── gcp-homepage.png
+    ├── killercoda-terminal.png
+    └── github-repository.png
 
